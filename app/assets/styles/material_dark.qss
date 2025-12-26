@@ -1,0 +1,22 @@
+* {
+    font-family: "Vazirmatn", "Segoe UI";
+    color: #f5f5f5;
+}
+QWidget {
+    background: #121212;
+}
+QPushButton {
+    background: #4caf50;
+    color: #fff;
+    border-radius: 10px;
+    padding: 8px 14px;
+}
+QPushButton:hover { background: #43a047; }
+QLineEdit, QTextEdit, QComboBox {
+    border: 1px solid #37474f;
+    border-radius: 10px;
+    padding: 8px;
+    background: #1f1f1f;
+}
+QLabel { font-size: 14px; }
+#SidebarButton { background: #1e1e1e; color: #e0e0e0; }
